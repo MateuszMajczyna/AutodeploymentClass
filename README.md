@@ -1,2 +1,2 @@
 # AutodeploymentClass
-Task
+This is a basic testing project
