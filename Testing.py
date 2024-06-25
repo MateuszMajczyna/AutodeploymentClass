@@ -1,7 +1,7 @@
 #Test
 
 a = 2
-b = 3
+b = 7
 c = b + a
 print(c)
 print(a)
