@@ -1,6 +1,6 @@
 #Test
 
-a = 2
+a = 10
 b = 7
 c = b + a
 print(c)
